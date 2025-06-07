@@ -1,9 +1,8 @@
-  ![Banner](./assets/myImage.jpg)
-<h1 align="center">Hi 👋, I'm Shashidhar Nagunuri</h1>
+ <h1 align="center">Hi 👋, I'm Shashidhar Nagunuri</h1>
 <h3 align="center">An aspiring full stack developer from India</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=shashidhar078&label=Profile%20views&color=0e75b6&style=flat" alt="shashidhar078" /> </p>
-
+ ![Banner](./assets/myImage.jpg)
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=shashidhar078" alt="shashidhar078" /></a> </p>
 
 <p align="left"> <a href="https://twitter.com/shashidhar78" target="blank"><img src="https://img.shields.io/twitter/follow/shashidhar78?logo=twitter&style=for-the-badge" alt="shashidhar78" /></a> </p>
