@@ -1,6 +1,6 @@
-[!Banner](./assets/Developer.jpg)
-
-
+<p align="center">
+  <img src="./assets/GitBanner.jpg" alt="Developer at work">
+</p>
 
 <h1 align="center">Hi 👋, I'm Shashidhar Nagunuri</h1>
 <h3 align="center">An aspiring full stack developer from India</h3>
