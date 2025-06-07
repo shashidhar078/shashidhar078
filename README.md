@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="./assets/developer.jpg" width="300" alt="Developer at work">
+  <img src="./assets/Developer.jpg" width="300" alt="Developer at work">
 </p>
 
 <p align="center">shashidhar078</p>
