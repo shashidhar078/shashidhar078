@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="./assets/GitBanner.jpg" alt="Developer at work">
+  <img src="./assets/GitBanner.jpg" width="600" alt="Developer at work">
 </p>
 
 <h1 align="center">Hi 👋, I'm Shashidhar Nagunuri</h1>
