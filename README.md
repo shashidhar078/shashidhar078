@@ -1,8 +1,12 @@
-![Banner](./assets/myImage.jpg)
+<p align="center">
+  <img src="./assets/developer.jpg" width="300" alt="Developer at work">
+</p>
+
+<p align="center">shashidhar078</p>
+
 <h1 align="center">Hi 👋, I'm Shashidhar Nagunuri</h1>
 <h3 align="center">An aspiring full stack developer from India</h3>
-## Meet the Developer
-![Developer at work](./assets/developer.jpg)
+
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=shashidhar078&label=Profile%20views&color=0e75b6&style=flat" alt="shashidhar078" /> </p>
 
