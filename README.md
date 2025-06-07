@@ -1,3 +1,4 @@
+![Banner](./myImage.jpg)
 <h1 align="center">Hi 👋, I'm Shashidhar Nagunuri</h1>
 <h3 align="center">An aspiring full stack developer from India</h3>
 
