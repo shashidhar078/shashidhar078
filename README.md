@@ -20,7 +20,7 @@
 
 - 📫 How to reach me **nagunurishashidhar@gmail.com**
 
-- 📄 Know about my experiences [https://drive.google.com/file/d/1foDHHoUcFUhhbAPJlDOvAa7HZMpF2Ku-/view?usp=drive_link](https://drive.google.com/file/d/1foDHHoUcFUhhbAPJlDOvAa7HZMpF2Ku-/view?usp=drive_link)
+- 📄 Know about my experiences [https://drive.google.com/file/d/1foDHHoUcFUhhbAPJlDOvAa7HZMpF2Ku-/view?usp=drive_link](https://drive.google.com/file/d/1gJ0c7ry6eXcTdB-c7Yj5wZXl8gtUvTYZ/view?usp=sharing)
 
 - ⚡ Fun fact **i never settle for just "working"**
 
