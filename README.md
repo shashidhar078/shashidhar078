@@ -1,62 +1,37 @@
 <p align="center">
-  <img src="./assets/GitBanner.jpg" width="100%" alt="Developer Banner">
+  <img src="./assets/GitBanner.jpg" width="100%" />
 </p>
 
 <h1 align="center">Hey 👋, I'm Shashidhar Nagunuri</h1>
-<h3 align="center">🚀 Full Stack Developer | 🤖 GenAI Enthusiast | ⚡ Real-Time Systems Builder</h3>
+
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=28&duration=3000&pause=800&color=00F7FF&center=true&vCenter=true&width=900&lines=Full+Stack+Developer;GenAI+%7C+Agentic+AI+Explorer;Real-Time+Systems+Builder;MERN+%7C+Spring+Boot+(Learning);Building+Systems+That+Actually+Scale" />
+</p>
 
 ---
 
-## 🧠 About Me
+## 🧠 Who Am I?
 
-- 🔭 Currently building **AI-powered systems + real-time applications**
-- 🌱 Exploring **GenAI, LangChain, Agentic AI & System Design**
-- 🏗️ Passionate about **scalable backend + real-world problem solving**
-- ⚡ I don’t just build apps — I build **systems that actually work in production**
-- 🎯 Goal: Become a **top-tier Full Stack + AI Engineer**
-
----
-
-## 🚀 Featured Projects
-
-### 🏥 Hospital Management System (MERN)
-- Role-based system (Admin, Doctor, Patient, Lab)
-- Custom patient ID generation + secure APIs
-- JWT authentication + scalable backend design
+- 🚀 I build real-world systems, not just projects  
+- ⚡ Strong focus on backend architecture & real-time systems  
+- 🤖 Exploring GenAI, Agentic AI & scalable system design  
+- 🎯 Always pushing from "it works" → "it scales"  
 
 ---
 
-### 🎥 WebRTC Video Calling App
-- Real-time communication using **WebRTC + Socket.IO**
-- Peer-to-peer video streaming + signaling server
-- Deep understanding of **networking + real-time systems**
+## ⚡ What I'm Currently Doing
+
+- 🚀 Building AI-powered + real-time applications  
+- 🤖 Learning LangChain, RAG, Agentic AI  
+- 🌱 Exploring Spring Boot, Spring Security, Spring AI  
+- ☁️ Working with AWS deployments & system design  
+- 🔄 Improving DSA & problem solving  
 
 ---
 
-### 🤖 AI-Powered Social Platform (Threads Clone)
-- Integrated **AI moderation + content summarization**
-- Real-time feeds using **Socket.IO**
-- Focused on **scalability + safety**
+## 🛠️ Tech Arsenal
 
----
-
-### 🚆 Kochi Metro AI Induction Planning System
-> ⚡ This is my strongest project
-
-- AI-based train allocation & optimization system
-- Built using **React + FastAPI + PostgreSQL**
-- Uses:
-  - Fitness certificates
-  - Job card data
-  - Mileage balancing
-  - Stabling constraints
-- Goal: Replace manual planning with **intelligent automation**
-
----
-
-## 🛠️ Tech Stack
-
-### 💻 Core
+### 💻 Languages
 ![JavaScript](https://img.shields.io/badge/JavaScript-000?style=for-the-badge&logo=javascript)
 ![Java](https://img.shields.io/badge/Java-000?style=for-the-badge&logo=openjdk)
 ![Python](https://img.shields.io/badge/Python-000?style=for-the-badge&logo=python)
@@ -74,6 +49,11 @@
 ![NodeJS](https://img.shields.io/badge/Node.js-000?style=for-the-badge&logo=node.js)
 ![Express](https://img.shields.io/badge/Express-000?style=for-the-badge&logo=express)
 ![Socket.IO](https://img.shields.io/badge/Socket.IO-000?style=for-the-badge&logo=socketdotio)
+
+---
+
+### 🔥 Firebase
+![Firebase](https://img.shields.io/badge/Firebase-000?style=for-the-badge&logo=firebase)
 
 ---
 
@@ -112,15 +92,14 @@
 ## 🌐 Connect With Me
 
 <p align="center">
-<a href="https://linkedin.com/in/shashidhar nagunuri"><img src="https://skillicons.dev/icons?i=linkedin" /></a>
+<a href="https://linkedin.com/in/shashidhar-nagunuri"><img src="https://skillicons.dev/icons?i=linkedin" /></a>
 <a href="https://twitter.com/shashidhar78"><img src="https://skillicons.dev/icons?i=twitter" /></a>
 <a href="mailto:nagunurishashidhar@gmail.com"><img src="https://skillicons.dev/icons?i=gmail" /></a>
 </p>
 
 ---
 
-## ⚡ Fun Fact
+## ⚡ Philosophy
 
-> I never settle for "it works" — I push until it's **scalable, optimized, and production-ready** 🚀
-
----
+> I don’t just write code.  
+> I design systems that solve real problems, scale efficiently, and are built for the future 🚀
