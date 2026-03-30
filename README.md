@@ -12,7 +12,7 @@
 
 ## 🧠 Who Am I?
 
-- I build real-world systems, not just projects  
+- I build real-world systems
 - Strong focus on backend architecture & real-time systems  
 - Exploring GenAI, Agentic AI & scalable system design  
 - Always pushing from "it works" → "it scales"  
