@@ -12,20 +12,20 @@
 
 ## 🧠 Who Am I?
 
-- 🚀 I build real-world systems, not just projects  
-- ⚡ Strong focus on backend architecture & real-time systems  
-- 🤖 Exploring GenAI, Agentic AI & scalable system design  
-- 🎯 Always pushing from "it works" → "it scales"  
+- I build real-world systems, not just projects  
+- Strong focus on backend architecture & real-time systems  
+- Exploring GenAI, Agentic AI & scalable system design  
+- Always pushing from "it works" → "it scales"  
 
 ---
 
 ## ⚡ What I'm Currently Doing
 
-- 🚀 Building AI-powered + real-time applications  
-- 🤖 Learning LangChain, RAG, Agentic AI  
-- 🌱 Exploring Spring Boot, Spring Security, Spring AI  
-- ☁️ Working with AWS deployments & system design  
-- 🔄 Improving DSA & problem solving  
+- Building AI-powered + real-time applications  
+- Learning LangChain, RAG, Agentic AI  
+- Exploring Spring Boot, Spring Security, Spring AI  
+- Working with AWS deployments & system design  
+- Improving DSA & problem solving  
 
 ---
 
@@ -99,7 +99,4 @@
 
 ---
 
-## ⚡ Philosophy
-
-> I don’t just write code.  
-> I design systems that solve real problems, scale efficiently, and are built for the future 🚀
+<h3 align="center">⬆️ ONLY UPWARDS ⬆️</h3>
