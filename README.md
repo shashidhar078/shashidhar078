@@ -93,7 +93,6 @@
 
 <p align="center">
 <a href="https://linkedin.com/in/shashidhar-nagunuri"><img src="https://skillicons.dev/icons?i=linkedin" /></a>
-<a href="https://twitter.com/shashidhar78"><img src="https://skillicons.dev/icons?i=twitter" /></a>
 <a href="mailto:nagunurishashidhar@gmail.com"><img src="https://skillicons.dev/icons?i=gmail" /></a>
 </p>
 
