@@ -140,18 +140,10 @@ My interests include:
 
 ---
 
-# GitHub Analytics
+## 📈 Activity
 
 <p align="center">
-  <img
-    width="48%"
-    src="https://github-readme-stats.vercel.app/api?username=shashidhar078&show_icons=true&theme=github_dark&hide_border=true"
-  />
-
-  <img
-    width="48%"
-    src="https://github-readme-streak-stats.herokuapp.com/?user=shashidhar078&theme=github-dark-blue&hide_border=true"
-  />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=shashidhar078&theme=github-dark&hide_border=true" />
 </p>
 
 ---
@@ -170,7 +162,6 @@ My interests include:
 
 </p>
 
----
 
 <p align="center">
 Building scalable systems, one project at a time.
