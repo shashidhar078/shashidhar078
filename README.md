@@ -2,100 +2,176 @@
   <img src="./assets/GitBanner.jpg" width="100%" />
 </p>
 
-<h1 align="center">Hey 👋, I'm Shashidhar Nagunuri</h1>
+<h1 align="center">Shashidhar Nagunuri</h1>
+
+<h3 align="center">
+Full-Stack Developer • Java Developer • GenAI Explorer
+</h3>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=28&duration=3000&pause=800&color=00F7FF&center=true&vCenter=true&width=900&lines=Full+Stack+Developer;GenAI+%7C+Agentic+AI+Explorer;Real-Time+Systems+Builder;MERN+%7C+Spring+Boot+(Learning);Building+Systems+That+Actually+Scale" />
+Building scalable applications, real-time systems, and AI-powered solutions.
+</p>
+
+<p align="center">
+  <a href="https://github.com/shashidhar078">
+    <img src="https://img.shields.io/github/followers/shashidhar078?style=for-the-badge" />
+  </a>
+  <a href="https://linkedin.com/in/shashidhar-nagunuri">
+    <img src="https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge&logo=linkedin" />
+  </a>
 </p>
 
 ---
 
-## 🧠 Who Am I?
+# About Me
 
-- I build real-world systems
-- Strong focus on backend architecture & real-time systems  
-- Exploring GenAI, Agentic AI & scalable system design  
-- Always pushing from "it works" → "it scales"  
+```yaml
+name: Shashidhar Nagunuri
 
----
+role: Full-Stack Developer
 
-## ⚡ What I'm Currently Doing
+specialization:
+  - Backend Engineering
+  - Real-Time Systems
+  - Artificial Intelligence
 
-- Building AI-powered + real-time applications  
-- Learning LangChain, RAG, Agentic AI  
-- Exploring Spring Boot, Spring Security, Spring AI  
-- Working with AWS deployments & system design  
-- Improving DSA & problem solving  
+currently_exploring:
+  - LangChain
+  - Agentic AI
+  - Distributed Systems
+  - Advanced System Design
+```
 
----
+I enjoy designing systems that are efficient, scalable, and built to solve real-world problems.
 
-## 🛠️ Tech Arsenal
+My interests include:
 
-### 💻 Languages
-![JavaScript](https://img.shields.io/badge/JavaScript-000?style=for-the-badge&logo=javascript)
-![Java](https://img.shields.io/badge/Java-000?style=for-the-badge&logo=openjdk)
-![Python](https://img.shields.io/badge/Python-000?style=for-the-badge&logo=python)
-
----
-
-### 🌐 Frontend
-![React](https://img.shields.io/badge/React-000?style=for-the-badge&logo=react)
-![TailwindCSS](https://img.shields.io/badge/Tailwind-000?style=for-the-badge&logo=tailwindcss)
-![Vite](https://img.shields.io/badge/Vite-000?style=for-the-badge&logo=vite)
+- Full-stack development
+- Real-time applications
+- Artificial intelligence
+- Cloud infrastructure
+- Distributed systems
+- Backend engineering
 
 ---
 
-### ⚙️ Backend
-![NodeJS](https://img.shields.io/badge/Node.js-000?style=for-the-badge&logo=node.js)
-![Express](https://img.shields.io/badge/Express-000?style=for-the-badge&logo=express)
-![Socket.IO](https://img.shields.io/badge/Socket.IO-000?style=for-the-badge&logo=socketdotio)
+# Tech Stack
 
----
+### Languages
 
-### 🔥 Firebase
-![Firebase](https://img.shields.io/badge/Firebase-000?style=for-the-badge&logo=firebase)
-
----
-
-### 🧠 AI / Data
-![LangChain](https://img.shields.io/badge/LangChain-000?style=for-the-badge)
-![RAG](https://img.shields.io/badge/RAG-000?style=for-the-badge)
-![Apache Spark](https://img.shields.io/badge/Spark-000?style=for-the-badge&logo=apachespark)
-![Hadoop](https://img.shields.io/badge/Hadoop-000?style=for-the-badge&logo=apachehadoop)
-
----
-
-### 🗄️ Databases
-![MongoDB](https://img.shields.io/badge/MongoDB-000?style=for-the-badge&logo=mongodb)
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-000?style=for-the-badge&logo=postgresql)
-![MySQL](https://img.shields.io/badge/MySQL-000?style=for-the-badge&logo=mysql)
-
----
-
-### ☁️ DevOps & Tools
-![AWS](https://img.shields.io/badge/AWS-000?style=for-the-badge&logo=amazonaws)
-![Docker](https://img.shields.io/badge/Docker-000?style=for-the-badge&logo=docker)
-![Git](https://img.shields.io/badge/Git-000?style=for-the-badge&logo=git)
-![Postman](https://img.shields.io/badge/Postman-000?style=for-the-badge&logo=postman)
-
----
-
-## 📊 GitHub Stats
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=shashidhar078&show_icons=true&theme=github_dark" />
-  <img src="https://nirzak-streak-stats.vercel.app/?user=shashidhar078&theme=github_dark" />
+<p>
+<img src="https://skillicons.dev/icons?i=java,js,python" />
 </p>
 
 ---
 
-## 🌐 Connect With Me
+### Frontend
 
-<p align="center">
-<a href="https://linkedin.com/in/shashidhar-nagunuri"><img src="https://skillicons.dev/icons?i=linkedin" /></a>
-<a href="mailto:nagunurishashidhar@gmail.com"><img src="https://skillicons.dev/icons?i=gmail" /></a>
+<p>
+<img src="https://skillicons.dev/icons?i=react,tailwind,vite" />
 </p>
 
 ---
 
-<h3 align="center">⬆️ ONLY UPWARDS ⬆️</h3>
+### Backend
+
+<p>
+<img src="https://skillicons.dev/icons?i=nodejs,express" />
+</p>
+
+- REST APIs
+- Authentication
+- Authorization
+- WebSockets
+- Real-time communication
+
+---
+
+### Databases
+
+<p>
+<img src="https://skillicons.dev/icons?i=mongodb,postgresql,mysql,firebase" />
+</p>
+
+---
+
+### Artificial Intelligence
+
+- LangChain
+- Retrieval-Augmented Generation (RAG)
+- Agentic AI
+- Prompt Engineering
+
+---
+
+### Data Engineering
+
+- Apache Kafka
+- Apache Spark
+
+---
+
+### DevOps & Cloud
+
+<p>
+<img src="https://skillicons.dev/icons?i=docker,kubernetes,aws,git,github,postman" />
+</p>
+
+- Docker
+- Kubernetes
+- CI/CD Pipelines
+- GitHub Actions
+- Nginx
+- AWS
+
+---
+
+# Current Focus
+
+- Building scalable backend systems
+
+- Developing AI-powered applications
+
+- Exploring distributed systems
+
+- Strengthening system design skills
+
+- Solving data structures and algorithms problems
+
+---
+
+# GitHub Analytics
+
+<p align="center">
+  <img
+    width="48%"
+    src="https://github-readme-stats.vercel.app/api?username=shashidhar078&show_icons=true&theme=github_dark&hide_border=true"
+  />
+
+  <img
+    width="48%"
+    src="https://github-readme-streak-stats.herokuapp.com/?user=shashidhar078&theme=github-dark-blue&hide_border=true"
+  />
+</p>
+
+---
+
+# Connect With Me
+
+<p align="center">
+
+<a href="https://linkedin.com/in/shashidhar-nagunuri">
+<img src="https://skillicons.dev/icons?i=linkedin" />
+</a>
+
+<a href="mailto:nagunurishashidhar@gmail.com">
+<img src="https://skillicons.dev/icons?i=gmail" />
+</a>
+
+</p>
+
+---
+
+<p align="center">
+Building scalable systems, one project at a time.
+</p>
